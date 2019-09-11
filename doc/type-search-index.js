@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ObserverExample","l":"Cliente"},{"p":"ObserverExample","l":"DWclient"},{"p":"ObserverExample","l":"GoTclient"},{"p":"ObserverExample","l":"Libreria"},{"p":"ObserverExample","l":"LoTRclient"},{"p":"ObserverExample","l":"Main"}]

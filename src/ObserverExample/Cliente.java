@@ -1,0 +1,22 @@
+package ObserverExample;
+
+/**
+ * Clase abstracta cliente, los clientes serían los Observadores.
+ * @author Chacón Campos
+ *
+ */
+public abstract class Cliente {
+	protected Libreria subject;
+	protected int cantidadActual;
+	
+	/**
+	 * 
+	 */
+	public abstract void update();
+	
+	/**
+	 * 
+	 */
+	public abstract void buyBook();
+
+}
